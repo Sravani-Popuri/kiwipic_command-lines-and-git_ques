@@ -17,5 +17,5 @@ The git status command tells the current state of the repository.
 The command provides the current working branch. If the files are in the staging area, but not committed, it will be shown by the git status. Also, if there are no changes, it will show the message no changes to commit, working directory clean.
 
 git config(command name)
-The git config command is used initially to configure the https://t.co/zlhyvNdVbU and https://t.co/S3oeIPyPbZ. This specifies what email id and username will be used from a local repository.
+The git config command is used initially to configure the user.name and user.emailid . This specifies what email id and username will be used from a local repository.
 When git config is used with --global flag, it writes the settings to all repositories on the computer.
